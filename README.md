@@ -6,7 +6,8 @@
 <img src='https://raw.githubusercontent.com/shivam1808/Docker_Care_Green/master/pic4.PNG' border='0' alt='Plant Disease Detection'/>
 <br>
 <p align="center">
-  <sub>Created by <a href="https://github.com/shivam1808", "https://github.com/GarimaGarg29"><strong>Shivam Gupta and Garima Garg</strong></a>
+  <sub>Created by <a href="https://github.com/shivam1808"><strong>Shivam Gupta</strong></a>
+  <a href="https://github.com/GarimaGarg29"><strong>Garima Garg</strong></a>
 </p>
 <hr noshade>
 <br>
